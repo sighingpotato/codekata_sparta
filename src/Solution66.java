@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Solution66 {
     public int[] solution(String[] keymap, String[] targets) {
         // 알파벳 대문자 26개를 위한 최소 타수 저장 창고
